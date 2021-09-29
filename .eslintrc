@@ -55,8 +55,6 @@
       }
     ],
     "indent": [
-      "error",
-      4,
       {
         "SwitchCase": 1
       }
@@ -99,7 +97,7 @@
       "error",
       "always"
     ],
-    "space-before-function-paren": [
+    "space-before-function-parent": [
       "error",
       {
         "anonymous": "always",
